@@ -1,4 +1,4 @@
-package io.github.wsfin64;
+package wsfin64;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
